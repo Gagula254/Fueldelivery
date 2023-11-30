@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/attendantHome"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Home" />
+
+
+    <item
+        android:id="@+id/PendingOrders"
+        android:icon="@drawable/pending_orders_24"
+        android:title="Pending Orders" />
+
+
+    <item
+        android:id="@+id/Orders"
+        android:icon="@drawable/orders_24"
+        android:title="Orders" />
+
+
+    <item
+        android:id="@+id/attendantProfile"
+        android:icon="@drawable/post_dish_menu_24"
+        android:title="Post Product" />
+
+</menu>
