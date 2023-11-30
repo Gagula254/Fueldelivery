@@ -26,7 +26,7 @@
         <com.google.android.material.textfield.TextInputLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/Lemail"
+            android:id="@+id/Llemail"
             android:layout_marginTop="15dp"
             android:paddingBottom="10dp">
             <com.google.android.material.textfield.TextInputEditText
@@ -41,7 +41,7 @@
         <com.google.android.material.textfield.TextInputLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/Lpassword"
+            android:id="@+id/Llpassword"
             android:layout_marginTop="11dp"
             android:paddingBottom="5dp"
             app:passwordToggleEnabled="true">
@@ -57,7 +57,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/forgotpass"
+            android:id="@+id/lforgotpass"
             android:text="Forgot Password?"
             android:gravity="end"
             android:textSize="16sp"

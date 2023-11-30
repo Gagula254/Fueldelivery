@@ -64,7 +64,7 @@
             android:textColor="#090909"/>
 
         <Button
-            android:id="@+id/button4"
+            android:id="@+id/button3"
             android:layout_width="match_parent"
             android:layout_height="48dp"
             android:layout_marginTop="20dp"

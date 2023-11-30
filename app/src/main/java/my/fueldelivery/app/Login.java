@@ -33,11 +33,11 @@ public class Login extends AppCompatActivity {
 
         try{
 
-            email = (TextInputLayout)findViewById(R.id.Lemail);
-            pass = (TextInputLayout)findViewById(R.id.Lpassword);
+            email = (TextInputLayout)findViewById(R.id.Llemail);
+            pass = (TextInputLayout)findViewById(R.id.Llpassword);
             Signin = (Button)findViewById(R.id.button4);
             signup = (TextView) findViewById(R.id.textView4);
-            Forgotpassword = (TextView)findViewById(R.id.forgotpass);
+            Forgotpassword = (TextView)findViewById(R.id.lforgotpass);
 //            Signinphone = (Button)findViewById(R.id.btnphone);
 
             Fauth = FirebaseAuth.getInstance();
